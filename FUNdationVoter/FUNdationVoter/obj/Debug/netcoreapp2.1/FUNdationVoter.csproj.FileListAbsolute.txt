@@ -1,0 +1,11 @@
+C:\Users\Erdi\Desktop\Projects\voter\FUNdationVoter\FUNdationVoter\bin\Debug\netcoreapp2.1\FUNdationVoter.deps.json
+C:\Users\Erdi\Desktop\Projects\voter\FUNdationVoter\FUNdationVoter\bin\Debug\netcoreapp2.1\FUNdationVoter.runtimeconfig.json
+C:\Users\Erdi\Desktop\Projects\voter\FUNdationVoter\FUNdationVoter\bin\Debug\netcoreapp2.1\FUNdationVoter.runtimeconfig.dev.json
+C:\Users\Erdi\Desktop\Projects\voter\FUNdationVoter\FUNdationVoter\bin\Debug\netcoreapp2.1\FUNdationVoter.dll
+C:\Users\Erdi\Desktop\Projects\voter\FUNdationVoter\FUNdationVoter\bin\Debug\netcoreapp2.1\FUNdationVoter.pdb
+C:\Users\Erdi\Desktop\Projects\voter\FUNdationVoter\FUNdationVoter\obj\Debug\netcoreapp2.1\FUNdationVoter.csprojAssemblyReference.cache
+C:\Users\Erdi\Desktop\Projects\voter\FUNdationVoter\FUNdationVoter\obj\Debug\netcoreapp2.1\FUNdationVoter.csproj.CoreCompileInputs.cache
+C:\Users\Erdi\Desktop\Projects\voter\FUNdationVoter\FUNdationVoter\obj\Debug\netcoreapp2.1\FUNdationVoter.AssemblyInfoInputs.cache
+C:\Users\Erdi\Desktop\Projects\voter\FUNdationVoter\FUNdationVoter\obj\Debug\netcoreapp2.1\FUNdationVoter.AssemblyInfo.cs
+C:\Users\Erdi\Desktop\Projects\voter\FUNdationVoter\FUNdationVoter\obj\Debug\netcoreapp2.1\FUNdationVoter.dll
+C:\Users\Erdi\Desktop\Projects\voter\FUNdationVoter\FUNdationVoter\obj\Debug\netcoreapp2.1\FUNdationVoter.pdb
